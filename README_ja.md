@@ -255,11 +255,6 @@ python -c "from benchmark_runner import run_benchmark; run_benchmark(env_name='s
 - [OpenAI](https://openai.com/) - LLM API
 - すべての貢献者
 
-## 📧 連絡先
-
-- **作者**: HuangShengZeBlueSky
-- **リポジトリ**: https://github.com/HuangShengZeBlueSky/MPE_muiltiagent_benchmark
-- **問題**: [GitHub Issues](https://github.com/HuangShengZeBlueSky/MPE_muiltiagent_benchmark/issues)
 
 ## ⭐ スター履歴
 
