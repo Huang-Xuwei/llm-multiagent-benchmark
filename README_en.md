@@ -525,12 +525,6 @@ This project is licensed under MIT License - see [LICENSE](LICENSE) file
 - [OpenAI](https://openai.com/) - LLM APIs
 - All contributors
 
-## 📧 Contact
-
-- **Author**: HuangShengZeBlueSky
-- **Repository**: https://github.com/HuangShengZeBlueSky/MPE_muiltiagent_benchmark
-- **Issues**: [GitHub Issues](https://github.com/HuangShengZeBlueSky/MPE_muiltiagent_benchmark/issues)
-
 ## ⭐ Star History
 
 If this project helps you, please give it a Star ⭐!
