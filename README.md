@@ -8,9 +8,6 @@ A multi-agent reinforcement learning benchmark suite based on PettingZoo MPE env
 
 🌐 **Available in**: [English](README_en.md) | [中文](README_zh.md) | [日本語](README_ja.md) | [Tiếng Việt](README_vi.md)
 
-In here you can find some game videos and log.
-https://cloud.tsinghua.edu.cn/d/8780829bc1bd45e480bf/
----
 
 ## 🌟 Key Features
 
