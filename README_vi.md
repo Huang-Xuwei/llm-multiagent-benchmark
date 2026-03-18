@@ -255,11 +255,6 @@ Dự án này được cấp phép theo Giấy Phép MIT - xem tệp [LICENSE](L
 - [OpenAI](https://openai.com/) - API LLM
 - Tất cả Người Đóng Góp
 
-## 📧 Liên Hệ
-
-- **Tác Giả**: HuangShengZeBlueSky
-- **Kho Lưu Trữ**: https://github.com/HuangShengZeBlueSky/MPE_muiltiagent_benchmark
-- **Vấn Đề**: [GitHub Issues](https://github.com/HuangShengZeBlueSky/MPE_muiltiagent_benchmark/issues)
 
 ## ⭐ Lịch Sử Sao
 
