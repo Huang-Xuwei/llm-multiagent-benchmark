@@ -6,8 +6,7 @@
 [![PettingZoo](https://img.shields.io/badge/PettingZoo-MPE-green.svg)](https://pettingzoo.farama.org/)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-目前的视频和运行日志
-https://cloud.tsinghua.edu.cn/d/8780829bc1bd45e480bf/
+
 🌐 **可用语言**: [English](README_en.md) | [中文](README_zh.md) | [日本語](README_ja.md) | [Tiếng Việt](README_vi.md)
 
 ## 🌟 项目亮点
@@ -509,11 +508,6 @@ for provider in ["qwen", "deepseek", "gpt"]:
 - [OpenAI](https://openai.com/) - LLM API
 - 所有贡献者
 
-## 📧 联系方式
-
-- **作者**: HuangShengZeBlueSky
-- **仓库**: https://github.com/HuangShengZeBlueSky/MPE_muiltiagent_benchmark
-- **问题反馈**: [GitHub Issues](https://github.com/HuangShengZeBlueSky/MPE_muiltiagent_benchmark/issues)
 
 ## ⭐ Star History
 
